@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/359
     wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
 description: Poetry of architecture -- Poems -- Goitto and his works in Padua.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18371#Giotto-and-his-works-in-Padua--13-An-Explanatory-Notice-of-the-Series-of-Woodcuts-Executed-fo_
 gutenberg_issued: '2006-05-11'
 gutenberg_type: Text
 identifiers:
